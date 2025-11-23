@@ -11,6 +11,8 @@
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [API Documentation](#-api-documentation) • [Contributing](#-contributing) • [License](#-license)
 
+## 📋 Demo: (https://link-verifier-ai-powered-scam-and-f.vercel.app/)
+
 </div>
 
 ---
