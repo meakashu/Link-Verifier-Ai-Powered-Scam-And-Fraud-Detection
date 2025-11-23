@@ -11,6 +11,8 @@
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [API Documentation](#-api-documentation) • [Contributing](#-contributing) • [License](#-license)
 
+## 📋 Demo: (https://link-verifier-ai-powered-scam-and-f.vercel.app/)
+
 </div>
 
 ---
@@ -446,8 +448,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Akash Kumar Singh**
 
 - 📧 Email: [meakash22dotin@gmail.com](mailto:meakash22dotin@gmail.com)
-- 🌐 GitHub: [@akashkumarsingh](https://github.com/akashkumarsingh)
-- 💼 LinkedIn: [Akash Kumar Singh](https://www.linkedin.com/in/akash-kumar-singh)
+- 🌐 GitHub: [@akashkumarsingh](https://github.com/meakashu)
+- 💼 LinkedIn: [Akash Kumar Singh](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQEWFteNYuvbHgAAAZqxRe_w93jqNHNVgw9F1Dm71U8ymGS9OA_j31I852BAInjhljiN4Ti-Bmr_T9h5FXAflClmv4dE3T9-Ep5Hgv3JgvDFGR39MXfWBWJze_vnCQxmgZjWyf0=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fakash-kumar-singh-883377273%2F)
 
 ## 🌟 Acknowledgments
 
